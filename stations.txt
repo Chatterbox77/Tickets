@@ -1,0 +1,7 @@
+City1 (City2,10)-(City3,20)-(City5,40)
+City2 (City1,10)-(City3,15)-(City4,80)-(City5,100)
+City3 (City2,15)-(City1,20)-(City5,50)
+City4 (City2,80)-(City5,70)
+City5 (City1,40)-(City3,20)-(City4,70)-(City2,100)
+City6 (City7,20)
+City7 (City6,20)
